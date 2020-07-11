@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/location_search"
+            android:layout_width="314dp"
+            android:layout_height="50dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:typeface="serif"
+            android:layout_alignParentLeft="true"
+            android:ems="10"
+            android:textColorHint="@android:color/darker_gray"
+            android:hint="Search place name.. "
+            />
+        <ImageButton
+            android:id="@+id/search_address"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_alignParentEnd="true"
+            android:background="@android:color/white"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:onClick="onClick"
+            android:src="@mipmap/search"
+            />
+
+
+
+    </RelativeLayout>
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.SurakshaPersonalSafetyApp.GoogleMapsActivity"
+        android:layout_marginTop="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true" />
+
+    <RelativeLayout
+        android:id="@+id/second_relative_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/hospitals_nearby"
+            android:layout_width="95dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="5dp"
+            android:background="@android:color/white"
+            android:onClick="onClick"
+            android:src="@mipmap/hospital" />
+
+        <ImageButton
+            android:id="@+id/pharmacy_nearby"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:background="@android:color/white"
+            android:layout_margin="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/hospitals_nearby"
+            android:onClick="onClick"
+            android:src="@mipmap/pharmacy"
+            android:layout_toRightOf="@+id/hospitals_nearby" />
+
+        <ImageButton
+            android:id="@+id/ambulance_nearby"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:layout_alignParentBottom="true"
+            android:layout_toEndOf="@+id/pharmacy_nearby"
+            android:background="@android:color/white"
+            android:onClick="onClick"
+            android:layout_margin="5dp"
+            android:src="@mipmap/ambulance"
+            android:layout_toRightOf="@+id/pharmacy_nearby" />
+
+        <ImageButton
+            android:id="@+id/police_nearby"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:background="@android:color/white"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="5dp"
+
+            android:layout_toEndOf="@+id/ambulance_nearby"
+            android:src="@mipmap/police"
+            android:onClick="onClick"
+            android:layout_toRightOf="@+id/ambulance_nearby" />
+
+
+
+
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>
+

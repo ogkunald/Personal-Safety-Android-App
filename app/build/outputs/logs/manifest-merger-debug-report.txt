@@ -1,0 +1,1080 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7975be61c4af63c7a0cd1ba58eb63989\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7577dc202dfa16edd5c40ca016b3562d\jetified-play-services-12.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e5f258eea56df3f38ebc01b4293cac2d\jetified-play-services-cast-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\04e8005c1623192e0968f230d5d46e28\mediarouter-1.0.0-alpha5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\21e5bef59164224ee30f9e612fd858dd\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d234867447004c634ac440dca3a79b1c\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c68819014f23be6950c5a6a810d53b9f\jetified-firebase-database-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\02398f214e469bcfa0fe13be8b12b311\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e2f3f031fb413c9a800b15a5925c65b7\jetified-play-services-places-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dcffb103958837586894c6add172b7b5\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f70a63bddf4fc9b4b35b55043e2f225d\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dfbddd357e2589d06a5bb96eb4f369a3\jetified-play-services-location-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f6e83538cf5bb9fda74d8b37564b8d52\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\77bfcedc66b33c81b36e62729c249351\jetified-firebase-config-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4df1d8ad2ec014b06c49c970c9972cf\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fe4ff7f88aa09b3c27c22a412920e521\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3ff40b192c06a0703275d301b6abd783\jetified-firebase-storage-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4248e8df3e448dd4be4e1f16573fb7c4\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6657d7030122098a34cfde74cb351226\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\66ef9f6d6611ba22043af195511c4ea8\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6ddf2000df4c4eea0c71947645a91bd\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2f6e5e3914513c6d841b514161dffe0e\jetified-play-services-games-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2c48d19bd6da2260d45429943dc33768\jetified-play-services-drive-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0384f6ccea3bcae3811cd214baca1cd7\jetified-play-services-fido-12.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d447df41df523d74c5f371549e8cd2\jetified-play-services-identity-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a863bda5f7b3f089984cc1b09e870c85\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\81891c29a45008ce7403cd42f00d0453\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\44743c96473608b7314f748d6c3b9b81\jetified-play-services-plus-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ab2c2907b32548192042c1e000216238\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95a594666f0fc70ddddbfc1198ea690e\jetified-play-services-vision-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da9bb4f546ec8feff05d66d02cc8927a\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\97b445b59fc174a96ff453708bde4293\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4100eac03ff82a7a69f98398f36a0401\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\39cf37c549bdd524b5ff06cc891dfd4b\jetified-play-services-ads-12.0.1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36d97bc54f03b01588a412542889cf71\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9adb9a879cc0198c1d73799328cb54fa\jetified-play-services-gass-12.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ad95cc0b65e27e5d43e6d3d190b943d8\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0449b096fa07dee1b4d623755031a596\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\884d5eb7601ad0787e8de5a5439eea9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0c29f614e582dcd2b4e100bb0a04bfa7\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5a902d4a7b896ddbb378477a11526859\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\20d1aff8e45f71f6b15d8506ad9902b2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fa528daa38a0138d31431459ec4d6310\palette-1.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c3190c4eff509fa537eebbaad29c1529\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6de8575cab7eb8a2fb831ddd5c5a06f1\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f5ecd8c647153857ec2c6890e13213f8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7e3198cd20a8583cbec7b8c12739efe5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\91748f068e2032d0661399cd17b54ef6\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ff160466de55f2d26a4d7b91785070f0\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\288fddf30d4afa99a178e965defac104\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0d4c29d6754c1fe8c554a2b07396ef6e\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d8ab8ad1f8442408fc8eb717b100dde0\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\873c599ef3c86658de5a5d25359a8a1c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3d087a227e27b07421a8c9e4f12994bc\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\847a802572b5a5572d9503f8107a74c3\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1589a43c709b3db00c04648c61bb4054\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5daaed4dd2dd680c0a65ea0b3153d305\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9ee03d9bd39a75e0f1e79d417cef9164\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\13328aded4ceb5ea496adca44f971597\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0a10fb7d89298d52829547f5f9ef2971\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4b607878b50dda5e8866abbcee72f4f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\94d84922ba4505d2179f99e2cfb73125\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\46dea089968ec92d5deda7fec689611d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\986910849d81f7d9fb0bd7983be913a4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8dd12cc2c7c2f8dc63db7b44480784d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2585e0768ccfa53cf771ae16c39bc66d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\024ef76ef17326c99b563f18aa4a65e5\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\594d35cf4d8dfea9fbdd9424a4c8628a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6648e95bc62119ee725270717a740099\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\eae9ea029bc960bbd6db65debd6d267e\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\99b9e531ab328af27c512bb8c016d2c2\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8656ff00b025dd0803981dd99f2f6821\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\341d6b925c832bd3e35740a4d6325e43\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9c3f4546dc8beafdf02632a2470c2126\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4c5a9dbbb3fbe2cef99cdead9927a2aa\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4e1767f73613ef4e361b04b864d11597\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a13e231b0f9b3a7979365b0b701a4d64\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d625da15e16a7e35492d01b773c6b3ba\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0870cf54636453b462c259289322d05b\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\09bd140ae0683685bbb586cc84755022\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c11cf9fd78499451b9d00ef59b1e316d\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da257ca86cfa34dd9cc1ede9b2e26005\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fcdd8e47a14a124f2b423ec6336cc0e1\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ebd02701783bee8a61202a7165145f8\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a3e46b31d3e4187aae2a5c386297e521\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3bac6b165094415b22b09efd6cd15410\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b497063d9a2266a91109244d17295e36\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d0a17c6ef09bbece02b8ca79ab78c417\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9391a598bfa209d9a4a5220a7d2ad5b2\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8a869b6491ab2ed31929bd2b035de607\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea952dcb86aeb30a3a34499e3c1329f2\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\138c2e94288311998c97164cb6e016d0\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3366f3848b3e7e1a472f9bc417533c7c\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\661c5d257e530cfdc2073f90287bbc12\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\60246fb0cab3d9c826d6579293ec5bd2\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f4600d4894b27e89daf84b714f1f7df8\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7316701ad79bc2fd0468dbb5f0fe0ee9\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dc13cb207617062079f94dc3cd9ca77e\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1babc71bf4252ee580e938fbe3c4992a\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ea2c43889b63366f16120b498e8490f\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\61c93f73a6c52fb3189d91d3ba3ee956\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aef83f3e83a1f6d8d0a772fabc0e88dc\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d308f88c77523a47f7135c399482d0\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d155f321712aac8232f74930bfb5c255\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36f18eea7e1accbb9d219e36846c440f\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\41cfd32423f754b9aaab156c9af7e71c\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\15c2b9b8c30b67d3afe57d3a479e3703\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\def2b0165f6c8e32cec775064cbec518\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9dcc50099e211d3b38cb3a5efe815b54\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\432345378c41981467e7999ec6aee698\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\56b24286838504c75a35ecf76ba2ea65\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1f94f04b6bfa2dbf56241b915de134fb\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\75a6e89d07c74899518653ee9442d3f7\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\86eaead3433f6f3cfb5cda0652654989\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6e8c0b5e65d0f2167ccc2e4e45f2b8ef\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c72b073d1f9e2a4cdfc56c2b953ca557\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a242406c77a98ad232a95f7bfeeaa8a8\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95d5349052775fedb01f2dd2f7d2bc27\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea27b6ad20ecbaff7da8d6f7d9137b47\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ef9af80ace2e0291057655a222a48924\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#com.google.android.providers.gsf.permisson.READ_GSERVICES
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:22-94
+application
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:21:5-62:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7975be61c4af63c7a0cd1ba58eb63989\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7975be61c4af63c7a0cd1ba58eb63989\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7577dc202dfa16edd5c40ca016b3562d\jetified-play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7577dc202dfa16edd5c40ca016b3562d\jetified-play-services-12.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e5f258eea56df3f38ebc01b4293cac2d\jetified-play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e5f258eea56df3f38ebc01b4293cac2d\jetified-play-services-cast-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d234867447004c634ac440dca3a79b1c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d234867447004c634ac440dca3a79b1c\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\02398f214e469bcfa0fe13be8b12b311\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\02398f214e469bcfa0fe13be8b12b311\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e2f3f031fb413c9a800b15a5925c65b7\jetified-play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e2f3f031fb413c9a800b15a5925c65b7\jetified-play-services-places-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:30:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f70a63bddf4fc9b4b35b55043e2f225d\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f70a63bddf4fc9b4b35b55043e2f225d\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dfbddd357e2589d06a5bb96eb4f369a3\jetified-play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dfbddd357e2589d06a5bb96eb4f369a3\jetified-play-services-location-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\77bfcedc66b33c81b36e62729c249351\jetified-firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\77bfcedc66b33c81b36e62729c249351\jetified-firebase-config-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4df1d8ad2ec014b06c49c970c9972cf\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4df1d8ad2ec014b06c49c970c9972cf\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4248e8df3e448dd4be4e1f16573fb7c4\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4248e8df3e448dd4be4e1f16573fb7c4\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6657d7030122098a34cfde74cb351226\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6657d7030122098a34cfde74cb351226\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2f6e5e3914513c6d841b514161dffe0e\jetified-play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2f6e5e3914513c6d841b514161dffe0e\jetified-play-services-games-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2c48d19bd6da2260d45429943dc33768\jetified-play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2c48d19bd6da2260d45429943dc33768\jetified-play-services-drive-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0384f6ccea3bcae3811cd214baca1cd7\jetified-play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0384f6ccea3bcae3811cd214baca1cd7\jetified-play-services-fido-12.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d447df41df523d74c5f371549e8cd2\jetified-play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d447df41df523d74c5f371549e8cd2\jetified-play-services-identity-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\81891c29a45008ce7403cd42f00d0453\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\81891c29a45008ce7403cd42f00d0453\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\44743c96473608b7314f748d6c3b9b81\jetified-play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\44743c96473608b7314f748d6c3b9b81\jetified-play-services-plus-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ab2c2907b32548192042c1e000216238\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ab2c2907b32548192042c1e000216238\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95a594666f0fc70ddddbfc1198ea690e\jetified-play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95a594666f0fc70ddddbfc1198ea690e\jetified-play-services-vision-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da9bb4f546ec8feff05d66d02cc8927a\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da9bb4f546ec8feff05d66d02cc8927a\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\97b445b59fc174a96ff453708bde4293\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\97b445b59fc174a96ff453708bde4293\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4100eac03ff82a7a69f98398f36a0401\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4100eac03ff82a7a69f98398f36a0401\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9adb9a879cc0198c1d73799328cb54fa\jetified-play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9adb9a879cc0198c1d73799328cb54fa\jetified-play-services-gass-12.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0a10fb7d89298d52829547f5f9ef2971\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0a10fb7d89298d52829547f5f9ef2971\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\99b9e531ab328af27c512bb8c016d2c2\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\99b9e531ab328af27c512bb8c016d2c2\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8656ff00b025dd0803981dd99f2f6821\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8656ff00b025dd0803981dd99f2f6821\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\341d6b925c832bd3e35740a4d6325e43\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\341d6b925c832bd3e35740a4d6325e43\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9c3f4546dc8beafdf02632a2470c2126\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9c3f4546dc8beafdf02632a2470c2126\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4c5a9dbbb3fbe2cef99cdead9927a2aa\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4c5a9dbbb3fbe2cef99cdead9927a2aa\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4e1767f73613ef4e361b04b864d11597\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4e1767f73613ef4e361b04b864d11597\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a13e231b0f9b3a7979365b0b701a4d64\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a13e231b0f9b3a7979365b0b701a4d64\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d625da15e16a7e35492d01b773c6b3ba\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d625da15e16a7e35492d01b773c6b3ba\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0870cf54636453b462c259289322d05b\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0870cf54636453b462c259289322d05b\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\09bd140ae0683685bbb586cc84755022\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\09bd140ae0683685bbb586cc84755022\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c11cf9fd78499451b9d00ef59b1e316d\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c11cf9fd78499451b9d00ef59b1e316d\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da257ca86cfa34dd9cc1ede9b2e26005\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da257ca86cfa34dd9cc1ede9b2e26005\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fcdd8e47a14a124f2b423ec6336cc0e1\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fcdd8e47a14a124f2b423ec6336cc0e1\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ebd02701783bee8a61202a7165145f8\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ebd02701783bee8a61202a7165145f8\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a3e46b31d3e4187aae2a5c386297e521\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a3e46b31d3e4187aae2a5c386297e521\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3bac6b165094415b22b09efd6cd15410\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3bac6b165094415b22b09efd6cd15410\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b497063d9a2266a91109244d17295e36\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b497063d9a2266a91109244d17295e36\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d0a17c6ef09bbece02b8ca79ab78c417\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d0a17c6ef09bbece02b8ca79ab78c417\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9391a598bfa209d9a4a5220a7d2ad5b2\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9391a598bfa209d9a4a5220a7d2ad5b2\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8a869b6491ab2ed31929bd2b035de607\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8a869b6491ab2ed31929bd2b035de607\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea952dcb86aeb30a3a34499e3c1329f2\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea952dcb86aeb30a3a34499e3c1329f2\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\138c2e94288311998c97164cb6e016d0\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\138c2e94288311998c97164cb6e016d0\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3366f3848b3e7e1a472f9bc417533c7c\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3366f3848b3e7e1a472f9bc417533c7c\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\661c5d257e530cfdc2073f90287bbc12\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\661c5d257e530cfdc2073f90287bbc12\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\60246fb0cab3d9c826d6579293ec5bd2\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\60246fb0cab3d9c826d6579293ec5bd2\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f4600d4894b27e89daf84b714f1f7df8\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f4600d4894b27e89daf84b714f1f7df8\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7316701ad79bc2fd0468dbb5f0fe0ee9\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7316701ad79bc2fd0468dbb5f0fe0ee9\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dc13cb207617062079f94dc3cd9ca77e\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dc13cb207617062079f94dc3cd9ca77e\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1babc71bf4252ee580e938fbe3c4992a\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1babc71bf4252ee580e938fbe3c4992a\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ea2c43889b63366f16120b498e8490f\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ea2c43889b63366f16120b498e8490f\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\61c93f73a6c52fb3189d91d3ba3ee956\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\61c93f73a6c52fb3189d91d3ba3ee956\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aef83f3e83a1f6d8d0a772fabc0e88dc\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aef83f3e83a1f6d8d0a772fabc0e88dc\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d308f88c77523a47f7135c399482d0\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d308f88c77523a47f7135c399482d0\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d155f321712aac8232f74930bfb5c255\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d155f321712aac8232f74930bfb5c255\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36f18eea7e1accbb9d219e36846c440f\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36f18eea7e1accbb9d219e36846c440f\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\41cfd32423f754b9aaab156c9af7e71c\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\41cfd32423f754b9aaab156c9af7e71c\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\15c2b9b8c30b67d3afe57d3a479e3703\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\15c2b9b8c30b67d3afe57d3a479e3703\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\def2b0165f6c8e32cec775064cbec518\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\def2b0165f6c8e32cec775064cbec518\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9dcc50099e211d3b38cb3a5efe815b54\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9dcc50099e211d3b38cb3a5efe815b54\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\432345378c41981467e7999ec6aee698\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\432345378c41981467e7999ec6aee698\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\56b24286838504c75a35ecf76ba2ea65\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\56b24286838504c75a35ecf76ba2ea65\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1f94f04b6bfa2dbf56241b915de134fb\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1f94f04b6bfa2dbf56241b915de134fb\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\75a6e89d07c74899518653ee9442d3f7\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\75a6e89d07c74899518653ee9442d3f7\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\86eaead3433f6f3cfb5cda0652654989\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\86eaead3433f6f3cfb5cda0652654989\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6e8c0b5e65d0f2167ccc2e4e45f2b8ef\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6e8c0b5e65d0f2167ccc2e4e45f2b8ef\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c72b073d1f9e2a4cdfc56c2b953ca557\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c72b073d1f9e2a4cdfc56c2b953ca557\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a242406c77a98ad232a95f7bfeeaa8a8\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a242406c77a98ad232a95f7bfeeaa8a8\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95d5349052775fedb01f2dd2f7d2bc27\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95d5349052775fedb01f2dd2f7d2bc27\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea27b6ad20ecbaff7da8d6f7d9137b47\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea27b6ad20ecbaff7da8d6f7d9137b47\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ef9af80ace2e0291057655a222a48924\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ef9af80ace2e0291057655a222a48924\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:27:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:37:9-39:55
+	android:value
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:39:13-52
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:38:13-58
+activity#com.example.shakedetector.GoogleMapsActivity
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:41:9-43:75
+	android:label
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:42:13-47
+activity#com.example.shakedetector.Signup_Form
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:44:9-46:75
+	android:theme
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:46:13-72
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:45:13-40
+activity#com.example.shakedetector.Login_Form
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:47:9-53:20
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:47:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:51:27-74
+activity#com.example.shakedetector.MainActivity
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:54:9-58:20
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:54:19-47
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:55:13-57:29
+activity#com.example.shakedetector.ServiceActivity
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:59:9-53
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:59:19-50
+service#com.example.shakedetector.ShakeService
+ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:61:9-49
+	android:name
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:61:18-46
+uses-sdk
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7975be61c4af63c7a0cd1ba58eb63989\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7975be61c4af63c7a0cd1ba58eb63989\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7577dc202dfa16edd5c40ca016b3562d\jetified-play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7577dc202dfa16edd5c40ca016b3562d\jetified-play-services-12.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e5f258eea56df3f38ebc01b4293cac2d\jetified-play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e5f258eea56df3f38ebc01b4293cac2d\jetified-play-services-cast-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\04e8005c1623192e0968f230d5d46e28\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\04e8005c1623192e0968f230d5d46e28\mediarouter-1.0.0-alpha5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\21e5bef59164224ee30f9e612fd858dd\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\21e5bef59164224ee30f9e612fd858dd\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d234867447004c634ac440dca3a79b1c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d234867447004c634ac440dca3a79b1c\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c68819014f23be6950c5a6a810d53b9f\jetified-firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c68819014f23be6950c5a6a810d53b9f\jetified-firebase-database-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\02398f214e469bcfa0fe13be8b12b311\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\02398f214e469bcfa0fe13be8b12b311\jetified-play-services-awareness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e2f3f031fb413c9a800b15a5925c65b7\jetified-play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e2f3f031fb413c9a800b15a5925c65b7\jetified-play-services-places-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dcffb103958837586894c6add172b7b5\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dcffb103958837586894c6add172b7b5\jetified-play-services-wallet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f70a63bddf4fc9b4b35b55043e2f225d\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f70a63bddf4fc9b4b35b55043e2f225d\jetified-play-services-fitness-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dfbddd357e2589d06a5bb96eb4f369a3\jetified-play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dfbddd357e2589d06a5bb96eb4f369a3\jetified-play-services-location-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f6e83538cf5bb9fda74d8b37564b8d52\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f6e83538cf5bb9fda74d8b37564b8d52\jetified-firebase-database-connection-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\77bfcedc66b33c81b36e62729c249351\jetified-firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\77bfcedc66b33c81b36e62729c249351\jetified-firebase-config-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4aa7c8370f07f6dc5c782384850c5bd7\jetified-firebase-crash-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4df1d8ad2ec014b06c49c970c9972cf\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4df1d8ad2ec014b06c49c970c9972cf\jetified-firebase-dynamic-links-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fe4ff7f88aa09b3c27c22a412920e521\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fe4ff7f88aa09b3c27c22a412920e521\jetified-play-services-tagmanager-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3ff40b192c06a0703275d301b6abd783\jetified-firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3ff40b192c06a0703275d301b6abd783\jetified-firebase-storage-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4248e8df3e448dd4be4e1f16573fb7c4\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4248e8df3e448dd4be4e1f16573fb7c4\jetified-firebase-appindexing-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6657d7030122098a34cfde74cb351226\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6657d7030122098a34cfde74cb351226\jetified-play-services-tagmanager-v4-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\66ef9f6d6611ba22043af195511c4ea8\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\66ef9f6d6611ba22043af195511c4ea8\jetified-play-services-auth-api-phone-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6ddf2000df4c4eea0c71947645a91bd\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6ddf2000df4c4eea0c71947645a91bd\jetified-play-services-auth-base-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2f6e5e3914513c6d841b514161dffe0e\jetified-play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2f6e5e3914513c6d841b514161dffe0e\jetified-play-services-games-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2c48d19bd6da2260d45429943dc33768\jetified-play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2c48d19bd6da2260d45429943dc33768\jetified-play-services-drive-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0384f6ccea3bcae3811cd214baca1cd7\jetified-play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0384f6ccea3bcae3811cd214baca1cd7\jetified-play-services-fido-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d447df41df523d74c5f371549e8cd2\jetified-play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d447df41df523d74c5f371549e8cd2\jetified-play-services-identity-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a863bda5f7b3f089984cc1b09e870c85\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a863bda5f7b3f089984cc1b09e870c85\jetified-play-services-instantapps-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4f18198d155b30504ee3d52d59bf84c7\jetified-play-services-nearby-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\81891c29a45008ce7403cd42f00d0453\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\81891c29a45008ce7403cd42f00d0453\jetified-play-services-panorama-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\44743c96473608b7314f748d6c3b9b81\jetified-play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\44743c96473608b7314f748d6c3b9b81\jetified-play-services-plus-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ab2c2907b32548192042c1e000216238\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ab2c2907b32548192042c1e000216238\jetified-play-services-safetynet-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95a594666f0fc70ddddbfc1198ea690e\jetified-play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95a594666f0fc70ddddbfc1198ea690e\jetified-play-services-vision-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da9bb4f546ec8feff05d66d02cc8927a\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da9bb4f546ec8feff05d66d02cc8927a\jetified-play-services-vision-common-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\97b445b59fc174a96ff453708bde4293\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\97b445b59fc174a96ff453708bde4293\jetified-play-services-wearable-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4100eac03ff82a7a69f98398f36a0401\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4100eac03ff82a7a69f98398f36a0401\jetified-play-services-tasks-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\39cf37c549bdd524b5ff06cc891dfd4b\jetified-play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\39cf37c549bdd524b5ff06cc891dfd4b\jetified-play-services-ads-12.0.1\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36d97bc54f03b01588a412542889cf71\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36d97bc54f03b01588a412542889cf71\jetified-firebase-storage-common-12.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9adb9a879cc0198c1d73799328cb54fa\jetified-play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9adb9a879cc0198c1d73799328cb54fa\jetified-play-services-gass-12.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ad95cc0b65e27e5d43e6d3d190b943d8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ad95cc0b65e27e5d43e6d3d190b943d8\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0449b096fa07dee1b4d623755031a596\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0449b096fa07dee1b4d623755031a596\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\884d5eb7601ad0787e8de5a5439eea9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\884d5eb7601ad0787e8de5a5439eea9e\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0c29f614e582dcd2b4e100bb0a04bfa7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0c29f614e582dcd2b4e100bb0a04bfa7\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5a902d4a7b896ddbb378477a11526859\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5a902d4a7b896ddbb378477a11526859\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\20d1aff8e45f71f6b15d8506ad9902b2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\20d1aff8e45f71f6b15d8506ad9902b2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fa528daa38a0138d31431459ec4d6310\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fa528daa38a0138d31431459ec4d6310\palette-1.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c3190c4eff509fa537eebbaad29c1529\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c3190c4eff509fa537eebbaad29c1529\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6de8575cab7eb8a2fb831ddd5c5a06f1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6de8575cab7eb8a2fb831ddd5c5a06f1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f5ecd8c647153857ec2c6890e13213f8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f5ecd8c647153857ec2c6890e13213f8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7e3198cd20a8583cbec7b8c12739efe5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7e3198cd20a8583cbec7b8c12739efe5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\91748f068e2032d0661399cd17b54ef6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\91748f068e2032d0661399cd17b54ef6\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ff160466de55f2d26a4d7b91785070f0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ff160466de55f2d26a4d7b91785070f0\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\288fddf30d4afa99a178e965defac104\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\288fddf30d4afa99a178e965defac104\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0d4c29d6754c1fe8c554a2b07396ef6e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0d4c29d6754c1fe8c554a2b07396ef6e\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d8ab8ad1f8442408fc8eb717b100dde0\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d8ab8ad1f8442408fc8eb717b100dde0\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\873c599ef3c86658de5a5d25359a8a1c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\873c599ef3c86658de5a5d25359a8a1c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3d087a227e27b07421a8c9e4f12994bc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3d087a227e27b07421a8c9e4f12994bc\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\847a802572b5a5572d9503f8107a74c3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\847a802572b5a5572d9503f8107a74c3\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1589a43c709b3db00c04648c61bb4054\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1589a43c709b3db00c04648c61bb4054\jetified-media2-1.0.0-alpha02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5daaed4dd2dd680c0a65ea0b3153d305\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\5daaed4dd2dd680c0a65ea0b3153d305\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9ee03d9bd39a75e0f1e79d417cef9164\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9ee03d9bd39a75e0f1e79d417cef9164\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\13328aded4ceb5ea496adca44f971597\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\13328aded4ceb5ea496adca44f971597\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0a10fb7d89298d52829547f5f9ef2971\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0a10fb7d89298d52829547f5f9ef2971\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4b607878b50dda5e8866abbcee72f4f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e4b607878b50dda5e8866abbcee72f4f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\94d84922ba4505d2179f99e2cfb73125\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\94d84922ba4505d2179f99e2cfb73125\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\46dea089968ec92d5deda7fec689611d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\46dea089968ec92d5deda7fec689611d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\986910849d81f7d9fb0bd7983be913a4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\986910849d81f7d9fb0bd7983be913a4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8dd12cc2c7c2f8dc63db7b44480784d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8dd12cc2c7c2f8dc63db7b44480784d8\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2585e0768ccfa53cf771ae16c39bc66d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2585e0768ccfa53cf771ae16c39bc66d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\024ef76ef17326c99b563f18aa4a65e5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\024ef76ef17326c99b563f18aa4a65e5\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\594d35cf4d8dfea9fbdd9424a4c8628a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\594d35cf4d8dfea9fbdd9424a4c8628a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6648e95bc62119ee725270717a740099\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6648e95bc62119ee725270717a740099\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\eae9ea029bc960bbd6db65debd6d267e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\eae9ea029bc960bbd6db65debd6d267e\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\99b9e531ab328af27c512bb8c016d2c2\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\99b9e531ab328af27c512bb8c016d2c2\jetified-firebase-database-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8656ff00b025dd0803981dd99f2f6821\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8656ff00b025dd0803981dd99f2f6821\jetified-play-services-maps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\341d6b925c832bd3e35740a4d6325e43\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\341d6b925c832bd3e35740a4d6325e43\jetified-firebase-auth-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9c3f4546dc8beafdf02632a2470c2126\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9c3f4546dc8beafdf02632a2470c2126\jetified-play-services-location-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4c5a9dbbb3fbe2cef99cdead9927a2aa\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4c5a9dbbb3fbe2cef99cdead9927a2aa\jetified-firebase-database-connection-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4e1767f73613ef4e361b04b864d11597\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\4e1767f73613ef4e361b04b864d11597\jetified-play-services-basement-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a13e231b0f9b3a7979365b0b701a4d64\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a13e231b0f9b3a7979365b0b701a4d64\jetified-firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d625da15e16a7e35492d01b773c6b3ba\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d625da15e16a7e35492d01b773c6b3ba\jetified-play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0870cf54636453b462c259289322d05b\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\0870cf54636453b462c259289322d05b\jetified-play-services-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\09bd140ae0683685bbb586cc84755022\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\09bd140ae0683685bbb586cc84755022\jetified-play-services-ads-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c11cf9fd78499451b9d00ef59b1e316d\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c11cf9fd78499451b9d00ef59b1e316d\jetified-play-services-ads-lite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da257ca86cfa34dd9cc1ede9b2e26005\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\da257ca86cfa34dd9cc1ede9b2e26005\jetified-play-services-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fcdd8e47a14a124f2b423ec6336cc0e1\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\fcdd8e47a14a124f2b423ec6336cc0e1\jetified-play-services-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ebd02701783bee8a61202a7165145f8\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ebd02701783bee8a61202a7165145f8\jetified-play-services-appinvite-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a3e46b31d3e4187aae2a5c386297e521\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a3e46b31d3e4187aae2a5c386297e521\jetified-play-services-auth-api-phone-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3bac6b165094415b22b09efd6cd15410\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3bac6b165094415b22b09efd6cd15410\jetified-play-services-auth-base-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b497063d9a2266a91109244d17295e36\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b497063d9a2266a91109244d17295e36\jetified-play-services-cast-framework-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d0a17c6ef09bbece02b8ca79ab78c417\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d0a17c6ef09bbece02b8ca79ab78c417\jetified-play-services-cast-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9391a598bfa209d9a4a5220a7d2ad5b2\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9391a598bfa209d9a4a5220a7d2ad5b2\jetified-firebase-config-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8a869b6491ab2ed31929bd2b035de607\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\8a869b6491ab2ed31929bd2b035de607\jetified-play-services-awareness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea952dcb86aeb30a3a34499e3c1329f2\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea952dcb86aeb30a3a34499e3c1329f2\jetified-firebase-crash-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\138c2e94288311998c97164cb6e016d0\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\138c2e94288311998c97164cb6e016d0\jetified-play-services-drive-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3366f3848b3e7e1a472f9bc417533c7c\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3366f3848b3e7e1a472f9bc417533c7c\jetified-play-services-fido-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\661c5d257e530cfdc2073f90287bbc12\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\661c5d257e530cfdc2073f90287bbc12\jetified-firebase-dynamic-links-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\60246fb0cab3d9c826d6579293ec5bd2\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\60246fb0cab3d9c826d6579293ec5bd2\jetified-firebase-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f4600d4894b27e89daf84b714f1f7df8\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\f4600d4894b27e89daf84b714f1f7df8\jetified-firebase-messaging-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7316701ad79bc2fd0468dbb5f0fe0ee9\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7316701ad79bc2fd0468dbb5f0fe0ee9\jetified-firebase-storage-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dc13cb207617062079f94dc3cd9ca77e\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\dc13cb207617062079f94dc3cd9ca77e\jetified-firebase-storage-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1babc71bf4252ee580e938fbe3c4992a\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1babc71bf4252ee580e938fbe3c4992a\jetified-play-services-fitness-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ea2c43889b63366f16120b498e8490f\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ea2c43889b63366f16120b498e8490f\jetified-play-services-games-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\61c93f73a6c52fb3189d91d3ba3ee956\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\61c93f73a6c52fb3189d91d3ba3ee956\jetified-play-services-gass-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aef83f3e83a1f6d8d0a772fabc0e88dc\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aef83f3e83a1f6d8d0a772fabc0e88dc\jetified-play-services-gcm-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d308f88c77523a47f7135c399482d0\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\33d308f88c77523a47f7135c399482d0\jetified-firebase-appindexing-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d155f321712aac8232f74930bfb5c255\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\d155f321712aac8232f74930bfb5c255\jetified-play-services-identity-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36f18eea7e1accbb9d219e36846c440f\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\36f18eea7e1accbb9d219e36846c440f\jetified-play-services-iid-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\41cfd32423f754b9aaab156c9af7e71c\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\41cfd32423f754b9aaab156c9af7e71c\jetified-play-services-instantapps-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\15c2b9b8c30b67d3afe57d3a479e3703\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\15c2b9b8c30b67d3afe57d3a479e3703\jetified-firebase-analytics-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\def2b0165f6c8e32cec775064cbec518\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\def2b0165f6c8e32cec775064cbec518\jetified-firebase-analytics-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9dcc50099e211d3b38cb3a5efe815b54\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9dcc50099e211d3b38cb3a5efe815b54\jetified-play-services-nearby-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\432345378c41981467e7999ec6aee698\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\432345378c41981467e7999ec6aee698\jetified-play-services-panorama-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\56b24286838504c75a35ecf76ba2ea65\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\56b24286838504c75a35ecf76ba2ea65\jetified-play-services-places-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1f94f04b6bfa2dbf56241b915de134fb\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1f94f04b6bfa2dbf56241b915de134fb\jetified-play-services-plus-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\75a6e89d07c74899518653ee9442d3f7\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\75a6e89d07c74899518653ee9442d3f7\jetified-play-services-safetynet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\86eaead3433f6f3cfb5cda0652654989\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\86eaead3433f6f3cfb5cda0652654989\jetified-play-services-tagmanager-api-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6e8c0b5e65d0f2167ccc2e4e45f2b8ef\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\6e8c0b5e65d0f2167ccc2e4e45f2b8ef\jetified-play-services-tagmanager-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c72b073d1f9e2a4cdfc56c2b953ca557\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c72b073d1f9e2a4cdfc56c2b953ca557\jetified-play-services-tagmanager-v4-impl-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a242406c77a98ad232a95f7bfeeaa8a8\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a242406c77a98ad232a95f7bfeeaa8a8\jetified-play-services-vision-common-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95d5349052775fedb01f2dd2f7d2bc27\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\95d5349052775fedb01f2dd2f7d2bc27\jetified-play-services-vision-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea27b6ad20ecbaff7da8d6f7d9137b47\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ea27b6ad20ecbaff7da8d6f7d9137b47\jetified-play-services-wallet-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ef9af80ace2e0291057655a222a48924\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ef9af80ace2e0291057655a222a48924\jetified-play-services-wearable-license-12.0.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\39cf37c549bdd524b5ff06cc891dfd4b\jetified-play-services-ads-12.0.1\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:18-90
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.example.shakedetector
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\e09a785097a7351987dc044668cb815a\jetified-play-services-analytics-impl-12.0.1\AndroidManifest.xml:27:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c67fc42b10ba0d8d5d6478218e4d2558\jetified-firebase-analytics-impl-12.0.1\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\9a59580b71cde673e213d5dbc1fff36c\jetified-play-services-gcm-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b9ad7525192fd2c3a48551e41caaeb9e\jetified-play-services-iid-12.0.1\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+permission#com.example.shakedetector.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+uses-permission#com.example.shakedetector.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.shakedetector
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+category#com.example.shakedetector
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:24:13-58

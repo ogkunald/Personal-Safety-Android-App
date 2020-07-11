@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8D:FA:82:98:0E:71:5C:E1:BC:D6:1B:B5:97:AC:D6:3B:EB:B8:10:95%3Bcom.example.shakedetector
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.shakedetector
+
+    SHA-1 certificate fingerprint:
+    8D:FA:82:98:0E:71:5C:E1:BC:D6:1B:B5:97:AC:D6:3B:EB:B8:10:95
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCFSTNaTlEcLg0za4K3ZGQFsF7j5ss4G_g</string>
+</resources>

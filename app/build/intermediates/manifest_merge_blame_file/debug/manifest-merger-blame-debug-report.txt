@@ -1,0 +1,427 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shakedetector"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml
+10
+11    <!--
+12         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+13         Google Maps Android API v2, but you must specify either coarse or fine
+14         location permissions for the 'MyLocation' functionality.
+15    -->
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:5-79
+16-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.SEND_SMS" />
+17-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:11:5-67
+17-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:11:22-64
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:5-81
+18-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:22-78
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:5-67
+19-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:5-79
+20-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:22-76
+21    <uses-permission android:name="com.google.android.providers.gsf.permisson.READ_GSERVICES" />
+21-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:5-97
+21-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:22-94
+22    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+22-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:5-79
+22-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:10:22-76
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:5-81
+23-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:12:22-78
+24    <uses-permission android:name="android.permission.INTERNET" />
+24-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:5-67
+24-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:13:22-64
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:5-79
+25-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:14:22-76
+26    <uses-permission android:name="com.google.android.providers.gsf.permisson.READ_GSERVICES" />
+26-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:5-97
+26-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:15:22-94
+27
+28    <uses-feature
+28-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+29        android:glEsVersion="0x00020000"
+29-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+30        android:required="true" />
+30-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\a6be31f646267e6758a3e5e9caadff82\jetified-play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+31
+32    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+32-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:5-68
+32-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:25:22-65
+33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+33-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+33-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:22-79
+34
+35    <permission
+35-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+36        android:name="com.example.shakedetector.permission.C2D_MESSAGE"
+36-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+37        android:protectionLevel="signature" />
+37-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+38
+39    <uses-permission android:name="com.example.shakedetector.permission.C2D_MESSAGE" />
+39-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+39-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+40
+41    <application
+41-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:21:5-62:19
+42        android:allowBackup="true"
+42-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:22:9-35
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.1.0] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\84ff450ea890fe9a18ce5c8093a60da4\core-1.1.0\AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+45-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:23:9-43
+46        android:label="@string/app_name"
+46-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:24:9-41
+47        android:roundIcon="@mipmap/ic_launcher_round"
+47-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:25:9-54
+48        android:supportsRtl="true"
+48-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:26:9-35
+49        android:testOnly="true"
+50        android:theme="@style/AppTheme" >
+50-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:27:9-40
+51
+52        <!--
+53             The API key for Google Maps-based APIs is defined as a string resource.
+54             (See the file "res/values/google_maps_api.xml").
+55             Note that the API key is linked to the encryption key used to sign the APK.
+56             You need a different API key for each encryption key, including the release key that is used to
+57             sign the APK for publishing.
+58             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+59        -->
+60        <meta-data
+60-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:37:9-39:55
+61            android:name="com.google.android.geo.API_KEY"
+61-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:38:13-58
+62            android:value="@string/google_maps_key" />
+62-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:39:13-52
+63
+64        <activity
+64-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:41:9-43:75
+65            android:name="com.example.shakedetector.GoogleMapsActivity"
+65-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:42:13-47
+66            android:label="@string/title_activity_google_maps" />
+66-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:43:13-63
+67        <activity
+67-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:44:9-46:75
+68            android:name="com.example.shakedetector.Signup_Form"
+68-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:45:13-40
+69            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+69-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:46:13-72
+70        <activity android:name="com.example.shakedetector.Login_Form" >
+70-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:47:9-53:20
+70-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:47:19-45
+71            <intent-filter>
+71-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:48:13-52:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:17-69
+72-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:51:17-77
+74-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:51:27-74
+75            </intent-filter>
+76        </activity>
+77        <activity android:name="com.example.shakedetector.MainActivity" >
+77-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:54:9-58:20
+77-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:54:19-47
+78            <intent-filter>
+78-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:55:13-57:29
+79                <action android:name="android.intent.action.MAIN" />
+79-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:17-69
+79-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:49:25-66
+80            </intent-filter>
+81        </activity>
+82        <activity android:name="com.example.shakedetector.ServiceActivity" />
+82-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:59:9-53
+82-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:59:19-50
+83
+84        <service android:name="com.example.shakedetector.ShakeService" />
+84-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:61:9-49
+84-->C:\Users\Nasty\Desktop\Android\ShakeDetector\app\src\main\AndroidManifest.xml:61:18-46
+85
+86        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+86-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:9-100
+86-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:8:19-97
+87
+88        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+88-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:9-104
+88-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:10:18-101
+89        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+89-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:9-93
+89-->[com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\901a63bec64d5090becea4c6083d14d5\jetified-play-services-cast-framework-12.0.1\AndroidManifest.xml:11:18-90
+90
+91        <activity
+91-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+92            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+92-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+93            android:excludeFromRecents="true"
+93-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+94            android:exported="true"
+94-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+95            android:launchMode="singleInstance"
+95-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+96            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+96-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\47f2cf11334226a570c6d53be8829c8e\jetified-firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+98        <activity
+98-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+99            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+99-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+100            android:excludeFromRecents="true"
+100-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+101            android:exported="false"
+101-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+102            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+102-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+103        <!--
+104            Service handling Google Sign-In user revocation. For apps that do not integrate with
+105            Google Sign-In, this service will never be started.
+106        -->
+107        <service
+107-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+108            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+108-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+109            android:exported="true"
+109-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+110            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+110-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\1500380a212790891df4caeeeabcf083\jetified-play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+111
+112        <activity
+112-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:25:9-34:20
+113            android:name="com.google.android.gms.appinvite.PreviewActivity"
+113-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:26:13-76
+114            android:exported="true"
+114-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:27:13-36
+115            android:theme="@style/Theme.AppInvite.Preview" >
+115-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:28:13-59
+116            <intent-filter>
+116-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:29:13-33:29
+117                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+117-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:17-90
+117-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:30:25-87
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+119-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+120            </intent-filter>
+121        </activity>
+122        <!--
+123             FirebaseMessagingService performs security checks at runtime,
+124             no need for explicit permissions despite exported="true"
+125        -->
+126        <service
+126-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+127            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+127-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+128            android:exported="true" >
+128-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+129            <intent-filter android:priority="-500" >
+129-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+129-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+130                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+130-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+130-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\ee1ac53e800da5c2dedf5705c0f5a325\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+131            </intent-filter>
+132        </service>
+133        <service
+133-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:27:9-30:40
+134            android:name="com.google.android.gms.tagmanager.TagManagerService"
+134-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:28:13-79
+135            android:enabled="true"
+135-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:29:13-35
+136            android:exported="false" />
+136-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:30:13-37
+137
+138        <activity
+138-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:32:9-44:20
+139            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+139-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:33:13-87
+140            android:exported="true"
+140-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:34:13-36
+141            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+141-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:35:13-37
+142            <intent-filter>
+142-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:36:13-43:29
+143                <data android:scheme="tagmanager.c.com.example.shakedetector" />
+143-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:17-72
+143-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:37:23-69
+144
+145                <action android:name="android.intent.action.VIEW" />
+145-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:17-69
+145-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:39:25-66
+146
+147                <category android:name="android.intent.category.DEFAULT" />
+147-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:17-76
+147-->[com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\696edec8d84ac7461d4651261973bc29\jetified-play-services-appinvite-12.0.1\AndroidManifest.xml:32:27-73
+148                <category android:name="android.intent.category.BROWSABLE" />
+148-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:17-78
+148-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\3750da947db57e2147b91dde818ea9b9\jetified-play-services-tagmanager-api-12.0.1\AndroidManifest.xml:42:27-75
+149            </intent-filter>
+150        </activity>
+151
+152        <receiver
+152-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+153            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+153-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+154            android:enabled="true"
+154-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+155            android:exported="false" >
+155-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+156        </receiver>
+157        <receiver
+157-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+158            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+158-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+159            android:enabled="true"
+159-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+160            android:exported="true"
+160-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+161            android:permission="android.permission.INSTALL_PACKAGES" >
+161-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+162            <intent-filter>
+162-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+163                <action android:name="com.android.vending.INSTALL_REFERRER" />
+163-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+163-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+164            </intent-filter>
+165        </receiver>
+166
+167        <service
+167-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+168            android:name="com.google.android.gms.measurement.AppMeasurementService"
+168-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+169            android:enabled="true"
+169-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+170            android:exported="false" />
+170-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+171        <service
+171-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+172            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+172-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+173            android:enabled="true"
+173-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+174            android:exported="false"
+174-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+175            android:permission="android.permission.BIND_JOB_SERVICE" />
+175-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7f4c5a2974cfd46ba6f385cc7d214641\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+176
+177        <receiver
+177-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+178            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+178-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+179            android:exported="true"
+179-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+180            android:permission="com.google.android.c2dm.permission.SEND" >
+180-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+181            <intent-filter>
+181-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+182                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+182-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
+182-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:25-78
+183
+184                <category android:name="com.example.shakedetector" />
+184-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+184-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+185            </intent-filter>
+186        </receiver>
+187        <!--
+188             FirebaseInstanceIdService performs security checks at runtime,
+189             no need for explicit permissions despite exported="true"
+190        -->
+191        <service
+191-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+192            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+192-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+193            android:exported="true" >
+193-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+194            <intent-filter android:priority="-500" >
+194-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+194-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+195                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+195-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+195-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\58b689789c04ba04d0dd15092c160afc\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+196            </intent-filter>
+197        </service>
+198
+199        <provider
+199-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+200            android:name="com.google.firebase.provider.FirebaseInitProvider"
+200-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+201            android:authorities="com.example.shakedetector.firebaseinitprovider"
+201-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+202            android:exported="false"
+202-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+203            android:initOrder="100" />
+203-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\7a39e50b67b02007c579a536ce21b0fb\jetified-firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+204
+205        <receiver
+205-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:30:9-34:20
+206            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+206-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:31:13-78
+207            android:enabled="true"
+207-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:32:13-35
+208            android:exported="false" >
+208-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:33:13-37
+209        </receiver>
+210
+211        <service
+211-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:36:9-39:40
+212            android:name="com.google.android.gms.analytics.AnalyticsService"
+212-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:37:13-77
+213            android:enabled="true"
+213-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:38:13-35
+214            android:exported="false" />
+214-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:39:13-37
+215        <service
+215-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:40:9-44:72
+216            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+216-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:41:13-80
+217            android:enabled="true"
+217-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:42:13-35
+218            android:exported="false"
+218-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:43:13-37
+219            android:permission="android.permission.BIND_JOB_SERVICE" />
+219-->[com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\c7eb446a59150ce58cf37f33f38114c0\jetified-play-services-analytics-12.0.1\AndroidManifest.xml:44:13-69
+220
+221        <activity
+221-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+222            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+222-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+223            android:exported="false"
+223-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+224            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+224-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\aaeac193c8d39c93433ae632ac4ca08e\jetified-play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+225        <activity
+225-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:29:9-33:64
+226            android:name="com.google.android.gms.ads.AdActivity"
+226-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:30:13-65
+227            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+227-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:31:13-122
+228            android:exported="false"
+228-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:32:13-37
+229            android:theme="@android:style/Theme.Translucent" />
+229-->[com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\b3d6ffdfe26364b1305f8044801739f1\jetified-play-services-ads-lite-12.0.1\AndroidManifest.xml:33:13-61
+230
+231        <meta-data
+231-->[com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:23:9-25:69
+232            android:name="com.google.android.gms.version"
+232-->[com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:24:13-58
+233            android:value="@integer/google_play_services_version" />
+233-->[com.google.android.gms:play-services-basement:12.0.1] C:\Users\Nasty\.gradle\caches\transforms-2\files-2.1\2ed8e15f7afda4d16610e81adaec8e8f\jetified-play-services-basement-12.0.1\AndroidManifest.xml:25:13-66
+234    </application>
+235
+236</manifest>
