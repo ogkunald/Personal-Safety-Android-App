@@ -18,8 +18,8 @@ https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 2. Send SOS using voice assistant
 
 ### Team Members : 
-1. [Kunal Dongare]
-2. [Ajay Bathani]
-3. [Jyotsna Dusane]
+1. Kunal Dongare
+2. Ajay Bathani
+3. Jyotsna Dusane
 
 ### Maintained By : [Kunal Dongare](https://github.com/nastyzera)
