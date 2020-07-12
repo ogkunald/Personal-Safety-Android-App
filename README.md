@@ -1,5 +1,5 @@
 # Suraksha-Personal-Safety-App
-# Personal Safety Application
+
 ### Research paper 
 https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 
