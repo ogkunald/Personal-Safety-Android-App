@@ -15,7 +15,7 @@ https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 
 ### TODO
 1. Live location feature
-2. Send SOS using voice
+2. Send SOS using voice assistant
 
 ### Team Members : 
 1. [Kunal Dongare]
