@@ -1,7 +1,7 @@
 # Suraksha-Personal-Safety-App
 
-# Research paper
-<a href="https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf"/></a>
+# Research paper 
+https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 
 ### What is the purpose of it?
 1. Helps you stay safe and connected to first responders and your emergency contacts.
