@@ -6,7 +6,7 @@ https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 ### What is the purpose of it?
 1. Helps you stay safe and connected to first responders and your emergency contacts.
 2. You can share SOS message with one click or gesture.
-3. Emergency contacts can track using Live location
+3. Emergency contacts can track you using Live location
 
 # Screenshots
 ![Main](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaMain.jpg)
