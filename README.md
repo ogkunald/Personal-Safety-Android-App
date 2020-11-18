@@ -9,9 +9,12 @@ https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 3. Get location of nearby police stations , hospitals , medicals,etc.
 
 # Screenshots
+![Login](https://github.com/nastyzera/Personal-Safety-Android-App/raw/master/Screenshots/surakshalogin.png)
 ![Main](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaMain.jpg)
+![Location](https://github.com/nastyzera/Personal-Safety-Android-App/raw/master/Screenshots/surakshaTravelMode.png)
 ![Message](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaRcv.jpg)
 ![Location](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaLoc.jpg)
+![TravelMode](https://github.com/nastyzera/Personal-Safety-Android-App/raw/master/Screenshots/surakshaNearbyLocation.png)
 
 ### TODO
 1. Live location feature
