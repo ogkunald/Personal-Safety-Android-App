@@ -15,6 +15,7 @@ https://www.irjet.net/archives/V7/i6/IRJET-V7I6560.pdf
 ![Main](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaMain.jpg)
 ### Travel Mode page(3 shakes/hardware trigger)
 ![TravelMode](https://github.com/nastyzera/Personal-Safety-Android-App/raw/master/Screenshots/surakshaTravelMode.png)
+### SOS SMS & Location
 ![Message](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaRcv.jpg)
 ![Location](https://github.com/nastyzera/Suraksha-Personal-Safety-App/raw/master/Screenshots/surakshaLoc.jpg)
 ### Nearby Places page
